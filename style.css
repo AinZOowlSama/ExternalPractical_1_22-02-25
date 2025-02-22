@@ -22,3 +22,6 @@
     border-radius: 5px;
     cursor: pointer;
   }
+    .plan-button:hover{
+        background: #e67e22;
+    }
