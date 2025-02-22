@@ -1,27 +1,27 @@
 .pricing-container {
-    display: flex;
-    justify-content: center;
-    align-items: center;
-    height: 100vh;
-  }
-  .pricing-plan{
-    width: 300px;
-    height: 200px;
-    background: #eeeaea;
-    border-radius: 10px;
-    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
-    text-align: center;
-    padding: 20px;
-    margin: 20px;
-  }
-  .plan-button{
-    background: #f39c12;
-    color: #fff;
-    padding: 10px 20px;
-    border: none;
-    border-radius: 5px;
-    cursor: pointer;
-  }
-    .plan-button:hover{
-        background: #e67e22;
-    }
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+}
+.pricing-plan {
+  width: 300px;
+  height: 200px;
+  background: #eeeaea;
+  border-radius: 10px;
+  box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+  text-align: center;
+  padding: 20px;
+  margin: 20px;
+}
+.plan-button {
+  background: #f39c12;
+  color: #fff;
+  padding: 10px 20px;
+  border: none;
+  border-radius: 5px;
+  cursor: pointer;
+}
+.plan-button:hover {
+  background: #e67e22;
+}
